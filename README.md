@@ -2,7 +2,7 @@
 
 Demo link at https://youtu.be/yS8ZmDgy3n8
 
-![tes](/Develop/output/EmployeeDirectory.JPG)
+![tes](/output/EmployeeDirectory.JPG)
 
 * Since we have been talking about 'test driven development', I thought that starting with the tests would be appropriate.
 
@@ -23,3 +23,7 @@ Demo link at https://youtu.be/yS8ZmDgy3n8
 
 * The tests all pass.  (I had to rework the tests, because I split name into firstname and lastname, so had errors on Employee.test.js until I added the correct components for each test.  So actually, going through that, I understand tests a little more.)
 
+* To run the program, in Gitbash or Terminal 
+1) npm i
+2) node app.js
+3) After completing the questions, open 'team.html' in output
