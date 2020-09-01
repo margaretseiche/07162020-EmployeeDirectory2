@@ -26,4 +26,4 @@ Demo link at https://youtu.be/yS8ZmDgy3n8
 * To run the program, in Gitbash or Terminal 
 1) npm i
 2) node app.js
-3) After completing the questions, open 'team.html' in output
+3) After completing the questions, open 'team.html' (in output folder) in the browser to display the output
